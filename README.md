@@ -23,7 +23,7 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 - Diseña una lista de comprobación y prueba la API frente a los requisitos en negrita.
 
 > [!TIP]
-> Estos son los requisitos para poder ejecutar la app
+> Estos son los requisitos para poder visualizar las respuestas del proyecto final
 
 # Diseño de pruebas para la funcion "Agregar licencia de conducir".
 - Se requiere tener instalado un navegador web, como Google Chrome, Mozilla firefox o Safari.
@@ -32,18 +32,15 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 - Pruebas Manuales
 - Pruebas funcionales
 - Pruebas no funcionales
+- Automatización
 
 > [!IMPORTANT]
 > Para validar la información contenida requieres leer esto:
 
 ## Ejecución de Pruebas 
 1. Clona el repositorio localmente.
-2. Visualizar el archivo correspondiente a listas de comprobación metodo de pago.
-4. Visualizar el archivo correspondiente a listas de comprobación diseño Web.
-5. Visualizar el archivo correspondiente a casos de prueba boton web.
-6. Visualizar el archivo correspondiente a casos de prueba alquiler automovil.
-7. Visualizar el archivo correspondiente a informe de errores.
-
+2. Visualizar el archivo correspondiente a proyecto final.
+3. Seguir el enlace descrito en cada prueba realizada de las tareas descritas anteriormente.
 
 > [!IMPORTANT]
 > Estado del proyecto
