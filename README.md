@@ -13,7 +13,7 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 - Desarrolla un mapa mental de la función de formulario de pedido. No olvides que una función es la lógica de trabajo y el diseño.
 - Haz una lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
 - Crea pruebas para validar los campos para la pantalla "Hacer pedido". Rellénalas como una tabla de acuerdo con la plantilla. Prueba todas las funciones utilizando no solo las listas de comprobación/tablas resultantes, sino también el resto de los diseños y requisitos. No es necesario que compruebes la página de inicio (página de destino). Los diseños en Figma están aquí.
-#Tarea 3: Aplicación móvil Urban Scooter
+# Tarea 3: Aplicación móvil Urban Scooter
 - Presta atención a la información técnica cuando inicies la aplicación.
 - Estudia los requisitos de la aplicación.
 - Diseña casos de prueba y prueba las funciones en negrita. No olvides escribir casos para el diseño y diseños para estas funciones. Los diseños en Figma están aquí.
